@@ -1,0 +1,7 @@
+{
+  "name": "Diga - Assistente Financeiro",
+  "description": "Um assistente financeiro acessível, conversacional e empático projetado para simplificar o controle de gastos para todos.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
